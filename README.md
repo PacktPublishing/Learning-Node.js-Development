@@ -1,5 +1,5 @@
-# The Complete Node.js Developer Course
-This is the code repository for [The Complete Node.js Developer Course](https://www.packtpub.com/web-development/complete-nodejs-developer-course?utm_source=github&utm_medium=repository&utm_campaign=9781788395540), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Learning Node.js Development
+This is the code repository for [Learning Node.js Development](https://www.packtpub.com/web-development/complete-nodejs-developer-course?utm_source=github&utm_medium=repository&utm_campaign=9781788395540), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Learning Node.js Development is a practical, project-based book that provides you with all you need to get started as a Node.js developer. Node is a ubiquitous technology on the modern web, and an essential part of any web developers toolkit. If you are looking to create real-world Node applications, or you want to switch careers or launch a side-project to generate some extra income, then you're in the right place. This book has been written around a single goal: turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications.
 
