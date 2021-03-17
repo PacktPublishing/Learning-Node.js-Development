@@ -9,4 +9,4 @@ var user2 = getUserSync('321');
 console.log('user2', user2);
 
 var sum = 1 + 2;
-console.console.log('The sum is ' + sum);
+console.log('The sum is ' + sum);
